@@ -7,7 +7,7 @@ multiplicacao = a * b
 divisao = a / b
 resto = a % b
 
-#**************************Formas de fazer impressão*****************************
+#************************Formas de fazer impressão*****************************
 
 #print('Soma: {}'.format(soma))
 

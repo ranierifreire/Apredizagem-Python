@@ -8,7 +8,7 @@
 # # else: 
 # #     print('Nenhum número par foi digitado')
 
-# ***********************************************************
+# *********************************************************
 
 a = int(input('Primeiro valor: '))
 b = int(input('Segundo valor: '))

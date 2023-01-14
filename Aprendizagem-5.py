@@ -1,5 +1,5 @@
 arroz_kg = 7.00
-feijao_KG = 9.00
+feijao_KG = 8.00
 carne_kg = 35.00
 
 for i in range(3):
