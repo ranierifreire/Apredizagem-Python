@@ -11,7 +11,7 @@ resto = a % b
 
 #print('Soma: {}'.format(soma))
 
-print('Soma: {som} \n \nSubtração: {sub}'.format(som=soma, sub=subtracao))
+print('Soma:  {som} \n \nSubtração:  {sub}'.format(som= soma, sub= subtracao))
 
 #print('Subtração: ' + str(subtracao))
 #print(multiplicacao)
